@@ -1,0 +1,9 @@
+.input-number{
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  align-items: start;
+}
+.ant-input-number{
+  width: 120px;
+}
